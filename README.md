@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Rahimat Onize Shaibu and I'm a Computer Science Masters Student
-- 👀 I’m interested in Software Development and Computer Networking
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Web Application Designs and Development and also Developing Softwares
+- 👀 I’m interested in UI/UX and Digital design
+- 🌱 I’m currently studying masters in computer science.
+- 💞️ I’m looking to collaborate on Web Application Designs, UX designs etc.
 - 📫 You can contact me by Email: Rahimatshaibu151@gmail.com
 
 <!---
